@@ -40,10 +40,10 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🌟 Landing Pages**
 
-**[retry-ai-landing](https://github.com/njraladdin/retry-in-another-ai-landing-page):** Landing page for retry-in-another-ai extension  
-**[what-did-i-do-landing](https://github.com/njraladdin/what-did-i-do-landing-page):** Landing page for what-did-i-do desktop app  
 **[matrix-todo-landing](https://github.com/njraladdin/matrix-todo-landing-page):** Landing page for matrix-todo extension  
-**[voice-chat-landing](https://github.com/njraladdin/voice-chat-assistant-landing-page):** Landing page for voice chat assistant extension  
 **[youtube-takeaways-landing](https://github.com/njraladdin/youtube-takeaways-landing-page):** Landing page for takeaways extension  
+**[what-did-i-do-landing](https://github.com/njraladdin/what-did-i-do-landing-page):** Landing page for what-did-i-do desktop app  
+**[retry-ai-landing](https://github.com/njraladdin/retry-in-another-ai-landing-page):** Landing page for retry-in-another-ai extension  
 **[memory-vault-landing](https://github.com/njraladdin/memory-vault-landing-page):** Landing page for memory-vault Chrome extension  
+**[voice-chat-landing](https://github.com/njraladdin/voice-chat-assistant-landing-page):** Landing page for voice chat assistant extension  
 
