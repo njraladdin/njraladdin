@@ -29,25 +29,25 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🌐 Chrome Extensions**
 
-**[retry-in-another-ai](https://github.com/njraladdin/retry-in-another-ai):** Continue conversations between ChatGPT and Claude with one click  
-**[takeaways](https://github.com/njraladdin/takeaways):** Generate key points and quizzes from YouTube videos  
-**[voice-chat-assistant](https://github.com/njraladdin/chatbot-voice-chat-assistant):** Voice interaction with ChatGPT using ElevenLabs text-to-speech  
-**[matrix-todo](https://github.com/njraladdin/matrix-todo-extension):** Matrix-themed new tab todo list with task prioritization  
+**[retry-in-another-ai](https://github.com/njraladdin/retry-in-another-ai):** Continue conversations between ChatGPT and Claude with one click [Live Product ↗](https://chromewebstore.google.com/detail/retry-in-another-ai-trans/kbagmbnacemgilnkkejfblmlkcmjkpbo)  
+**[takeaways](https://github.com/njraladdin/takeaways):** Generate key points and quizzes from YouTube videos [Live Product ↗](https://chromewebstore.google.com/detail/takeaways-ai-notes-quiz-f/imnnkhbimlhonjnobebpblgbjahefgpk)  
+**[voice-chat-assistant](https://github.com/njraladdin/chatbot-voice-chat-assistant):** Voice interaction with ChatGPT using ElevenLabs text-to-speech [Live Product ↗](https://chromewebstore.google.com/detail/voice-chat-assistant-add/coddgcibphhjbmgpehblilakfkcppjee)  
+**[matrix-todo](https://github.com/njraladdin/matrix-todo-extension):** Matrix-themed new tab todo list with task prioritization [Live Product ↗](https://chromewebstore.google.com/detail/matrix-todo-tab/mokhhigclgkaickldddfaogioneidafp)  
+**[memory-vault](https://github.com/njraladdin/memory-vault):** Infinite long-term memory for AI chatbots [Live Product ↗](https://chromewebstore.google.com/detail/memory-vault-infinite-lon/bdmhcmmcjkgnecahmeahfbjjelkbliea)
 
 **⚡ Web Apps**
 
-**[FreelanceWatch](https://github.com/njraladdin/freelance-watch):** React.js app for freelancers to track income, set goals, and build community accountability
+**[FreelanceWatch](https://github.com/njraladdin/freelance-watch):** React.js app for freelancers to track income, set goals, and build community accountability [Live Product ↗](https://freelancewatch.web.app/)
 
 **💻 Desktop Apps**
 
-**[what-did-i-do](https://github.com/njraladdin/what-did-i-do):** Local-first AI app for automated activity tracking and time analysis  
+**[what-did-i-do](https://github.com/njraladdin/what-did-i-do):** Local-first AI app for automated activity tracking and time analysis [Download ↗](https://github.com/njraladdin/what-did-i-do/releases)  
 
 **🌟 Landing Pages**
 
-**[matrix-todo-landing](https://github.com/njraladdin/matrix-todo-landing-page):** Landing page for matrix-todo extension  
-**[youtube-takeaways-landing](https://github.com/njraladdin/youtube-takeaways-landing-page):** Landing page for takeaways extension  
-**[what-did-i-do-landing](https://github.com/njraladdin/what-did-i-do-landing-page):** Landing page for what-did-i-do desktop app  
-**[retry-ai-landing](https://github.com/njraladdin/retry-in-another-ai-landing-page):** Landing page for retry-in-another-ai extension  
-**[memory-vault-landing](https://github.com/njraladdin/memory-vault-landing-page):** Landing page for memory-vault Chrome extension  
-**[voice-chat-landing](https://github.com/njraladdin/voice-chat-assistant-landing-page):** Landing page for voice chat assistant extension  
-
+**[matrix-todo-landing](https://github.com/njraladdin/matrix-todo-landing-page):** Landing page for matrix-todo extension [Visit ↗](https://getmatrixtodo.web.app)  
+**[youtube-takeaways-landing](https://github.com/njraladdin/youtube-takeaways-landing-page):** Landing page for takeaways extension [Visit ↗](https://takeaways.web.app)  
+**[what-did-i-do-landing](https://github.com/njraladdin/what-did-i-do-landing-page):** Landing page for what-did-i-do desktop app [Visit ↗](https://whatdidido.web.app/)  
+**[retry-ai-landing](https://github.com/njraladdin/retry-in-another-ai-landing-page):** Landing page for retry-in-another-ai extension [Visit ↗](https://retryinanotherai.web.app)  
+**[memory-vault-landing](https://github.com/njraladdin/memory-vault-landing-page):** Landing page for memory-vault Chrome extension [Visit ↗](https://memoryvault.web.app)  
+**[voice-chat-landing](https://github.com/njraladdin/voice-chat-assistant-landing-page):** Landing page for voice chat assistant extension [Visit ↗](https://voicechatassistant.web.app)
