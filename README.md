@@ -34,6 +34,10 @@ Automation, web scraping, AI apps, and rapid MVP development
 **[voice-chat-assistant](https://github.com/njraladdin/chatbot-voice-chat-assistant):** Voice interaction with ChatGPT using ElevenLabs text-to-speech  
 **[matrix-todo](https://github.com/njraladdin/matrix-todo-extension):** Matrix-themed new tab todo list with task prioritization  
 
+**⚡ Web Apps**
+
+**[FreelanceWatch](https://github.com/njraladdin/freelance-watch):** React.js app for freelancers to track income, set goals, and build community accountability
+
 **💻 Desktop Apps**
 
 **[what-did-i-do](https://github.com/njraladdin/what-did-i-do):** Local-first AI app for automated activity tracking and time analysis  
