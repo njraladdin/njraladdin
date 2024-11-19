@@ -29,6 +29,7 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🌐 Chrome Extensions**
 
+**[proposal-copycat](https://github.com/njraladdin/proposal-copycat):** Train AI to write Upwork proposals by analyzing your successful past proposals [Live Product ↗](https://proposalcopycat.web.app)  
 **[retry-in-another-ai](https://github.com/njraladdin/retry-in-another-ai):** Continue conversations between ChatGPT and Claude with one click [Live Product ↗](https://chromewebstore.google.com/detail/retry-in-another-ai-trans/kbagmbnacemgilnkkejfblmlkcmjkpbo)  
 **[takeaways](https://github.com/njraladdin/takeaways):** Generate key points and quizzes from YouTube videos [Live Product ↗](https://chromewebstore.google.com/detail/takeaways-ai-notes-quiz-f/imnnkhbimlhonjnobebpblgbjahefgpk)  
 **[voice-chat-assistant](https://github.com/njraladdin/chatbot-voice-chat-assistant):** Voice interaction with ChatGPT using ElevenLabs text-to-speech [Live Product ↗](https://chromewebstore.google.com/detail/voice-chat-assistant-add/coddgcibphhjbmgpehblilakfkcppjee)  
@@ -45,6 +46,7 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🌟 Landing Pages**
 
+**[proposal-copycat-landing](https://github.com/njraladdin/proposal-copycat-landing-page):** Landing page for proposal-copycat extension [Visit ↗](https://proposalcopycat.web.app)  
 **[matrix-todo-landing](https://github.com/njraladdin/matrix-todo-landing-page):** Landing page for matrix-todo extension [Visit ↗](https://getmatrixtodo.web.app)  
 **[youtube-takeaways-landing](https://github.com/njraladdin/youtube-takeaways-landing-page):** Landing page for takeaways extension [Visit ↗](https://takeaways.web.app)  
 **[what-did-i-do-landing](https://github.com/njraladdin/what-did-i-do-landing-page):** Landing page for what-did-i-do desktop app [Visit ↗](https://whatdidido.web.app/)  
