@@ -7,9 +7,8 @@ Automation, web scraping, AI apps, and rapid MVP development
 **🕵️ Scrapers**
 
 **[saashub-scraper](https://github.com/njraladdin/saashub-scraper-200k-listings):** Node.js scraper for 200,000 SaaS product listings on saashub.com  
+**[ordre-ingenieurs-scraper](https://github.com/yourusername/ordre-ingenieurs-quebec-scraper):** Node.js scraper for 40,000+ Quebec engineers from membres.oiq.qc.ca with phone verification via Pages Jaunes  
 **[prizepicks-scraper](https://github.com/njraladdin/prizepicks-scrape-scheduler):** Node.js scraper using Puppeteer to collect PrizePicks projections and update Google Sheets  
-**[job-listings-scraper](https://github.com/njraladdin/job-listings-scraper-scheduler):** Python tool that scrapes Swedish job listings sites and updates Airtable on schedule  
-**[realforeclosure-scraper](https://github.com/njraladdin/realforeclosure-scraper-scheduler):** Python scraper for Manatee County real estate auctions, runs daily at 6 PM EST  
 **[cabinet-gestion-scraper](https://github.com/njraladdin/cabinet-gestion-patrimoine-scraper):** Python scraper for French family offices and wealth management firms  
 **[dfsa-firms-scraper](https://github.com/njraladdin/dfsa-financial-firms-scraper):** Node.js scraper for Dubai Financial Services Authority public register  
 **[lyngsat-archive-scraper](https://github.com/njraladdin/lyngsat-web-archive-scraper):** Node.js scraper for historical satellite TV data from Wayback Machine archives of Lyngsat.com  
@@ -18,7 +17,6 @@ Automation, web scraping, AI apps, and rapid MVP development
 **[usc-courses-scraper](https://github.com/njraladdin/usc-university-courses-scraper):** Node.js scraper for USC course catalog information  
 **[adgm-registers-scraper](https://github.com/njraladdin/adgm-resgiters-scraper):** Node.js scraper for Abu Dhabi Global Market financial registers  
 **[vermont-brokers-scraper](https://github.com/njraladdin/vermont-state-data-brokers-scraper):** Python scraper for Vermont data broker business filings  
-**[horse-race-scraper](https://github.com/njraladdin/horse-race-scraper-scheduler):** Python scraper for BetVirtual's Portman Park race results on 10-minute schedule  
 **[newspapers-com-scraper](https://github.com/njraladdin/newspapers-com-scraper):** Python web scraper for extracting data from Newspapers.com using async programming  
 
 **🤖 Automation**
@@ -26,6 +24,9 @@ Automation, web scraping, AI apps, and rapid MVP development
 **[peer-review-assigner](https://github.com/njraladdin/google-sheets-peer-review-assigner):** Google Apps Script for automatic peer reviewer assignment  
 **[airbnb-sheets-integration](https://github.com/njraladdin/airbnb-reservations-to-gsheets-automation):** Google Apps Script for importing Airbnb reservations to Sheets  
 **[repo2text](https://github.com/njraladdin/repo2text):** Compile GitHub repositories into single text files for use with ChatGPT  
+**[realforeclosure-scraper](https://github.com/njraladdin/realforeclosure-scraper-scheduler):** Python scraper for ALL realforclosure counties real estate auctions,runs daily at 6 PM EST  
+**[horse-race-scraper](https://github.com/njraladdin/horse-race-scraper-scheduler):** Python scraper for BetVirtual's Portman Park race results on 10-minute schedule  
+**[job-listings-scraper](https://github.com/njraladdin/job-listings-scraper-scheduler):** Python tool that scrapes multiple Swedish job listings sites and updates Airtable on a certain schedule  
 
 **🌐 Chrome Extensions**
 
