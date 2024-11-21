@@ -6,8 +6,8 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🕵️ Scrapers**
 
-**[saashub-scraper](https://github.com/njraladdin/saashub-scraper-200k-listings):** Node.js scraper for 200,000 SaaS product listings on saashub.com  
-**[ordre-ingenieurs-scraper](https://github.com/njraladdin/ordre-ingenieurs-quebec-scraper):** Node.js scraper for 40,000+ Quebec engineers from membres.oiq.qc.ca with phone verification via Pages Jaunes  
+**[saashub-scraper](https://github.com/njraladdin/saashub-scraper-200k-listings):** Node.js scraper for 200k SaaS product listings on saashub.com  
+**[ordre-ingenieurs-scraper](https://github.com/njraladdin/ordre-ingenieurs-quebec-scraper):** Node.js scraper for 40k+ Quebec engineers from membres.oiq.qc.ca with phone verification via Pages Jaunes  
 **[prizepicks-scraper](https://github.com/njraladdin/prizepicks-scrape-scheduler):** Node.js scraper using Puppeteer to collect PrizePicks projections and update Google Sheets  
 **[cabinet-gestion-scraper](https://github.com/njraladdin/cabinet-gestion-patrimoine-scraper):** Python scraper for French family offices and wealth management firms  
 **[dfsa-firms-scraper](https://github.com/njraladdin/dfsa-financial-firms-scraper):** Node.js scraper for Dubai Financial Services Authority public register  
