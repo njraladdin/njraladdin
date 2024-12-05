@@ -21,7 +21,7 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🤖 Automation**
 
-**[recaptcha-solver](https://github.com/njraladdin/recaptcha-solver):** ReCaptcha v2 bypass using AI (Gemini), audio transcription (wit.ai), and 2Captcha service. Features stealth browser configs  
+**[recaptcha-solver](https://github.com/njraladdin/recaptcha-solver):** ReCaptcha v2 bypass using AI (Gemini), audio transcription (wit.ai), and 2Captcha service  
 **[canada-dncl-checker](https://github.com/njraladdin/canada-dncl-telephone-checker):** Node.js tool for batch-checking phone numbers against Canada's DNCL registry, featuring CAPTCHA bypass  
 **[peer-review-assigner](https://github.com/njraladdin/google-sheets-peer-review-assigner):** Google Apps Script for automatic peer reviewer assignment  
 **[airbnb-sheets-integration](https://github.com/njraladdin/airbnb-reservations-to-gsheets-automation):** Google Apps Script for importing Airbnb reservations to Sheets  
