@@ -45,6 +45,7 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **💻 Desktop Apps**
 
+**[screen-demo](https://github.com/njraladdin/screen-demo):** A screen recording and editing tool with zoom animations, cursor tracking, and background customization [Download ↗](https://github.com/njraladdin/screen-demo/releases)  
 **[what-did-i-do](https://github.com/njraladdin/what-did-i-do):** Local-first AI app for automated activity tracking and time analysis [Download ↗](https://github.com/njraladdin/what-did-i-do/releases)  
 
 **🌟 Landing Pages**
