@@ -6,8 +6,6 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🕵️ Scrapers**
 
-**[saashub-scraper](https://github.com/njraladdin/saashub-scraper-200k-listings):** Node.js scraper for 200k SaaS product listings on saashub.com  
-**[ordre-ingenieurs-scraper](https://github.com/njraladdin/ordre-ingenieurs-quebec-scraper):** Node.js scraper for 40k+ Quebec engineers from membres.oiq.qc.ca with phone verification via Pages Jaunes  
 **[newspapers-com-scraper](https://github.com/njraladdin/newspapers-com-scraper):** Python web scraper for extracting data from Newspapers.com   
 
 **🤖 Automation**
