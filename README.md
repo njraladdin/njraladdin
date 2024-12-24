@@ -26,7 +26,7 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **⚡ Web Apps**
 
-**[freelance-watch](https://github.com/njraladdin/freelance-watch):** React.js app for freelancers to track income, set goals, and build community accountability [Live Product ↗](https://freelancewatch.web.app/)
+**[freelance-watch](https://github.com/njraladdin/freelance-watch):** React.js app for freelancers to track income, set goals, and build community accountability [Live Product ↗](https://freelancewatch.web.app/)  ![users](https://img.shields.io/endpoint?url=https://progress-tracker-e27a5-default-rtdb.europe-west1.firebasedatabase.app/public/badge.json)  
 
 **💻 Desktop Apps**
 
