@@ -32,13 +32,3 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **[screen-demo](https://github.com/njraladdin/screen-demo):** Screen recording tool with zoom animations, cursor tracking, and background customization [Download ↗](https://github.com/njraladdin/screen-demo/releases) ![GitHub All Releases](https://img.shields.io/github/downloads/njraladdin/screen-demo/total)  
 **[what-did-i-do](https://github.com/njraladdin/what-did-i-do):** Local-first AI app for automated activity tracking and time analysis [Download ↗](https://github.com/njraladdin/what-did-i-do/releases) ![GitHub All Releases](https://img.shields.io/github/downloads/njraladdin/what-did-i-do/total)  
-
-**🌟 Landing Pages**
-
-**[proposal-copycat-landing](https://github.com/njraladdin/proposal-copycat-landing-page):** Landing page for proposal-copycat extension [Visit ↗](https://proposalcopycat.web.app)  
-**[matrix-todo-landing](https://github.com/njraladdin/matrix-todo-landing-page):** Landing page for matrix-todo extension [Visit ↗](https://getmatrixtodo.web.app)  
-**[youtube-takeaways-landing](https://github.com/njraladdin/youtube-takeaways-landing-page):** Landing page for takeaways extension [Visit ↗](https://takeaways.web.app)  
-**[what-did-i-do-landing](https://github.com/njraladdin/what-did-i-do-landing-page):** Landing page for what-did-i-do desktop app [Visit ↗](https://whatdidido.web.app/)  
-**[retry-ai-landing](https://github.com/njraladdin/retry-in-another-ai-landing-page):** Landing page for retry-in-another-ai extension [Visit ↗](https://retryinanotherai.web.app)  
-**[memory-vault-landing](https://github.com/njraladdin/memory-vault-landing-page):** Landing page for memory-vault Chrome extension [Visit ↗](https://memoryvault.web.app)  
-**[voice-chat-landing](https://github.com/njraladdin/voice-chat-assistant-landing-page):** Landing page for voice chat assistant extension [Visit ↗](https://voicechatassistant.web.app)
