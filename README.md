@@ -6,7 +6,7 @@ Automation, web scraping, AI apps, and rapid MVP development
 
 **🕵️ Scrapers**
 
-**[newspapers-com-scraper](https://github.com/njraladdin/newspapers-com-scraper):** Python web scraper for extracting data from Newspapers.com   
+**[newspapers-com-scraper](https://github.com/njraladdin/newspapers-com-scraper):** Node.js scraper for extracting data from Newspapers.com [Package ↗](https://www.npmjs.com/package/newspapers-com-scraper) [![npm total downloads](https://img.shields.io/npm/dt/newspapers-com-scraper.svg)](https://www.npmjs.com/package/newspapers-com-scraper)  
 
 **🤖 Automation**
 
