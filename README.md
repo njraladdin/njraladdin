@@ -11,7 +11,6 @@ Automation, web scraping, AI apps, and rapid MVP development
 **🤖 Automation**
 
 **[recaptcha-solver](https://github.com/njraladdin/recaptcha-solver):** ReCaptcha v2 bypass using AI (Gemini), audio transcription (wit.ai), and 2Captcha service  
-**[canada-dncl-checker](https://github.com/njraladdin/canada-dncl-telephone-checker):** Node.js tool for batch-checking phone numbers against Canada's DNCL registry, featuring CAPTCHA bypass  
 
 **🌐 Chrome Extensions**
 
