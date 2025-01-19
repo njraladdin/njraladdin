@@ -10,6 +10,9 @@ AUTOMATION
 
 [recaptcha-v2-solver](https://github.com/njraladdin/recaptcha-v2-solver): ReCaptcha v2 bypass using AI (Gemini), audio transcription, and 2Captcha [Package ↗](https://www.npmjs.com/package/recaptcha-v2-solver) [![npm total downloads](https://img.shields.io/npm/dt/recaptcha-v2-solver.svg)](https://www.npmjs.com/package/recaptcha-v2-solver)
 
+[browser-automation](https://github.com/njraladdin/browser-automation): Write web tasks in plain English - AI executes them in an automated browser ![GitHub stars](https://img.shields.io/github/stars/njraladdin/browser-automation)
+
+
 CHROME EXTENSIONS
 
 [proposal-copycat](https://github.com/njraladdin/proposal-copycat): Train AI to write Upwork proposals by analyzing your successful past proposals [Live Product ↗](https://chromewebstore.google.com/detail/retry-in-another-ai-trans/pemhdndkgoaeeojnaenhjofkaafbdemh) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pemhdndkgoaeeojnaenhjofkaafbdemh)
