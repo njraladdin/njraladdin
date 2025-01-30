@@ -33,6 +33,6 @@ WEB APPS
 
 DESKTOP APPS
 
-[screen-demo](https://github.com/njraladdin/screen-demo): Screen recording tool with zoom animations, cursor tracking, and background customization [Download ↗](https://github.com/njraladdin/screen-demo/releases) ![GitHub All Releases](https://img.shields.io/github/downloads/njraladdin/screen-demo/total)
+[screen-demo](https://github.com/njraladdin/screen-demo): Screen recording tool with zoom animations, cursor tracking, and background customization [Download ↗](https://screendemo.web.app/) ![GitHub All Releases](https://img.shields.io/github/downloads/njraladdin/screen-demo/total)
 
 [what-did-i-do](https://github.com/njraladdin/what-did-i-do): Local-first AI app for automated activity tracking and time analysis [Download ↗](https://github.com/njraladdin/what-did-i-do/releases) ![GitHub All Releases](https://img.shields.io/github/downloads/njraladdin/what-did-i-do/total)
