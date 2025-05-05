@@ -12,6 +12,11 @@ AUTOMATION
 
 [browser-automation](https://github.com/njraladdin/browser-automation): Write web tasks in plain English - AI executes them in an automated browser
 
+#### AI AGENTS
+[**adk-typescript**](https://github.com/njraladdin/adk-typescript): TS port of Google's Agent Development Kit (ADK). Build, evaluate, and deploy AI agents.
+  [Package ↗](https://www.npmjs.com/package/adk-typescript)
+  [![npm total downloads](https://img.shields.io/npm/dt/adk-typescript.svg)](https://www.npmjs.com/package/adk-typescript)
+
 
 CHROME EXTENSIONS
 
