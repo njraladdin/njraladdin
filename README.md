@@ -13,7 +13,7 @@ AUTOMATION
 [browser-automation](https://github.com/njraladdin/browser-automation): Write web tasks in plain English - AI executes them in an automated browser
 
 #### AI AGENTS
-[**adk-typescript**](https://github.com/njraladdin/adk-typescript): TS port of Google's Agent Development Kit (ADK). Build, evaluate, and deploy AI agents.
+[adk-typescript](https://github.com/njraladdin/adk-typescript): TS port of Google's Agent Development Kit (ADK). Build, evaluate, and deploy AI agents.
   [Package ↗](https://www.npmjs.com/package/adk-typescript)
   [![npm total downloads](https://img.shields.io/npm/dt/adk-typescript.svg)](https://www.npmjs.com/package/adk-typescript)
 
@@ -32,9 +32,6 @@ CHROME EXTENSIONS
 
 [memory-vault](https://github.com/njraladdin/memory-vault): Infinite long-term memory for AI chatbots [Live Product ↗](https://chromewebstore.google.com/detail/memory-vault-infinite-lon/bdmhcmmcjkgnecahmeahfbjjelkbliea) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/bdmhcmmcjkgnecahmeahfbjjelkbliea)
 
-WEB APPS
-
-[freelance-watch](https://github.com/njraladdin/freelance-watch): React.js app for freelancers to track income, set goals, and build community accountability [Live Product ↗](https://freelancewatch.web.app/) ![users](https://img.shields.io/endpoint?url=https://progress-tracker-e27a5-default-rtdb.europe-west1.firebasedatabase.app/public/badge.json)
 
 DESKTOP APPS
 
