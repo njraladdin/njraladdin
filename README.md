@@ -4,18 +4,19 @@ OPEN SOURCE PROJECTS
 
 SCRAPERS
 
-[newspapers-com-scraper](https://github.com/njraladdin/newspapers-com-scraper): Node.js scraper for extracting data from Newspapers.com [Package ↗](https://www.npmjs.com/package/newspapers-com-scraper) [![npm total downloads](https://img.shields.io/npm/dt/newspapers-com-scraper.svg)](https://www.npmjs.com/package/newspapers-com-scraper)
+[newspapers-com-scraper](https://github.com/njraladdin/newspapers-com-scraper): Node.js scraper for extracting data from Newspapers.com [Package ↗](https://www.npmjs.com/package/newspapers-com-scraper) [![npm monthly downloads](https://img.shields.io/npm/dm/newspapers-com-scraper.svg)](https://www.npmjs.com/package/newspapers-com-scraper)
 
 AUTOMATION
 
-[recaptcha-v2-solver](https://github.com/njraladdin/recaptcha-v2-solver): ReCaptcha v2 bypass using AI (Gemini), audio transcription, and 2Captcha [Package ↗](https://www.npmjs.com/package/recaptcha-v2-solver) [![npm total downloads](https://img.shields.io/npm/dt/recaptcha-v2-solver.svg)](https://www.npmjs.com/package/recaptcha-v2-solver)
+[captcha-ai-solver](https://github.com/njraladdin/captcha-ai-solver): solve reCAPTCHA v2 by replicating the challenge locally with domain spoofing  [Package ↗](https://pypi.org/project/captcha-ai-solver/)  [![PyPI - Downloads](https://img.shields.io/pypi/dm/captcha-ai-solver)](https://pypi.org/project/captcha-ai-solver/)
+
+
+[recaptcha-v2-solver](https://github.com/njraladdin/recaptcha-v2-solver): ReCaptcha v2 bypass using AI (Gemini), audio transcription, and 2Captcha [Package ↗](https://www.npmjs.com/package/recaptcha-v2-solver) [![npm monthly downloads](https://img.shields.io/npm/dm/recaptcha-v2-solver.svg)](https://www.npmjs.com/package/recaptcha-v2-solver)
 
 [browser-automation](https://github.com/njraladdin/browser-automation): Write web tasks in plain English - AI executes them in an automated browser
 
 #### AI AGENTS
-[adk-typescript](https://github.com/njraladdin/adk-typescript): TS port of Google's Agent Development Kit (ADK). Build, evaluate, and deploy AI agents.
-  [Package ↗](https://www.npmjs.com/package/adk-typescript)
-  [![npm total downloads](https://img.shields.io/npm/dt/adk-typescript.svg)](https://www.npmjs.com/package/adk-typescript)
+[adk-typescript](https://github.com/njraladdin/adk-typescript): TS port of Google's Agent Development Kit (ADK). Build, evaluate, and deploy AI agents. [Package ↗](https://www.npmjs.com/package/adk-typescript) [![npm monthly downloads](https://img.shields.io/npm/dm/adk-typescript.svg)](https://www.npmjs.com/package/adk-typescript)
 
 
 CHROME EXTENSIONS
