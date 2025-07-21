@@ -19,7 +19,7 @@ CHROME EXTENSIONS
 
 [matrix-todo](https://github.com/njraladdin/matrix-todo-extension): Matrix-themed new tab todo list with task prioritization [Live Product ↗](https://chromewebstore.google.com/detail/matrix-todo-tab/mokhhigclgkaickldddfaogioneidafp) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/mokhhigclgkaickldddfaogioneidafp)
 
-[maxmemory](https://github.com/njraladdin/maxmemory): Infinite long-term memory for AI chatbots [Live Product ↗](https://chromewebstore.google.com/detail/memory-vault-infinite-lon/bdmhcmmcjkgnecahmeahfbjjelkbliea) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/bdmhcmmcjkgnecahmeahfbjjelkbliea)
+maxmemory: Infinite long-term memory for AI chatbots [Live Product ↗](https://chromewebstore.google.com/detail/memory-vault-infinite-lon/bdmhcmmcjkgnecahmeahfbjjelkbliea) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/bdmhcmmcjkgnecahmeahfbjjelkbliea)
 
 
 DESKTOP APPS
