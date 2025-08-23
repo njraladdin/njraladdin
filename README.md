@@ -15,8 +15,6 @@ AUTOMATION
 
 CHROME EXTENSIONS
 
-[retry-in-another-ai](https://github.com/njraladdin/retry-in-another-ai): Continue conversations between ChatGPT and Claude with one click [Live Product ↗](https://chromewebstore.google.com/detail/retry-in-another-ai-trans/kbagmbnacemgilnkkejfblmlkcmjkpbo) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/kbagmbnacemgilnkkejfblmlkcmjkpbo)
-
 [matrix-todo](https://github.com/njraladdin/matrix-todo-extension): Matrix-themed new tab todo list with task prioritization [Live Product ↗](https://chromewebstore.google.com/detail/matrix-todo-tab/mokhhigclgkaickldddfaogioneidafp) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/mokhhigclgkaickldddfaogioneidafp)
 
 maxmemory: Infinite long-term memory for AI chatbots [Live Product ↗](https://chromewebstore.google.com/detail/memory-vault-infinite-lon/bdmhcmmcjkgnecahmeahfbjjelkbliea) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/bdmhcmmcjkgnecahmeahfbjjelkbliea)
